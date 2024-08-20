@@ -54,6 +54,7 @@ These insights are aimed at enhancing user engagement and optimizing future feat
 The dataset is obtained from the EURO2024 Analysis task report.
 
 ### [Tools Used]()
+- Excel: For initial data exploration and summary statistics
 - Google BigQuery: Primary data cleaning
 - SQL: For data cleaning and transformation
 - Panda: For data cleaning, inspection and analysis
