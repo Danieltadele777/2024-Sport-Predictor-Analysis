@@ -59,6 +59,7 @@ The dataset is obtained from the EURO2024 Analysis task report.
 - SQL: For data cleaning and transformation
 - Panda: For data cleaning, inspection and analysis
 - Power BI: Visualization, DAX, measures
+- Python, PySpark
 
 ### [Data cleaning]()
 To clean the data I performed the following tasks:
