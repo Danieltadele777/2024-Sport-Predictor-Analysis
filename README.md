@@ -34,7 +34,6 @@ I conducted an in-depth analysis of **Euro2024 eGamers**, encompassing data from
  - [Power BI Visualization](#power-bi-visualization)
  - [Recommendations](#recommendations)
  - [Limitations](#limitations)
- - [Presentation Video](#presentation-video)
 
 ### [Project Overview]()
 This project analyzes player behavior and prediction accuracy in GemBet's Sports Predictor during the Euro2024 football competition. Using data from 11 rounds and over 50,000 players, the study examines user engagement trends, prediction accuracy, and player preferences.
@@ -146,7 +145,5 @@ Impact: These factors could have influenced player engagement and behavior, pote
 - Seasonal Trends: The analysis of seasonal trends was limited to the available time frame, which might not fully capture longer-term patterns.
 Impact: Insights into seasonal spikes might be incomplete, affecting recommendations related to timing strategies.
 
-### [Presentation Video]()
-[Watch my presentation video for this analysis](https://drive.google.com/file/d/1VAKIDdvsfMm5hDARGbqIctPM5BqnZckr/view?usp=drive_link) to see the detailed analysis and insights!
 
 
