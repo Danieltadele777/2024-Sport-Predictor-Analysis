@@ -34,7 +34,6 @@ I conducted an in-depth analysis of **Euro2024 eGamers**, encompassing data from
  - [Power BI Visualization](#power-bi-visualization)
  - [Recommendations](#recommendations)
  - [Limitations](#limitations)
- - [References](#references)
  - [Presentation Video](#presentation-video)
 
 ### [Project Overview]()
@@ -146,9 +145,6 @@ Impact: These factors could have influenced player engagement and behavior, pote
 
 - Seasonal Trends: The analysis of seasonal trends was limited to the available time frame, which might not fully capture longer-term patterns.
 Impact: Insights into seasonal spikes might be incomplete, affecting recommendations related to timing strategies.
-
-### [References]()
-No reference materials were used in this analysis
 
 ### [Presentation Video]()
 [Watch my presentation video for this analysis](https://drive.google.com/file/d/1VAKIDdvsfMm5hDARGbqIctPM5BqnZckr/view?usp=drive_link) to see the detailed analysis and insights!
